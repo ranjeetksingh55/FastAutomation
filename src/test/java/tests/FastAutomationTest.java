@@ -1,14 +1,9 @@
 package tests;
 
 import base.BaseTest;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import pages.FastAutomationPage;
-
-import javax.sound.midi.Soundbank;
-import java.time.Duration;
 
 public class FastAutomationTest extends BaseTest {
 
